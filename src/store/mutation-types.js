@@ -1,0 +1,7 @@
+export const RECEIVE_INDEX = 'receive_index'
+export const RECEIVE_INDEXITEM = 'receive_indexitem'
+export const RECEIVE_CATENAV = 'receive_catanav'
+export const RECEIVE_CATELIST = 'receive_catelist'
+export const RECEIVE_TOPICNAV = 'receive_topicnav'
+export const RECEIVE_SEARCHHOT = 'receive_searchhot'
+export const RECEIVE_SEARCH = 'receive_search'
