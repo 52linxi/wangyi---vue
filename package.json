@@ -14,7 +14,7 @@
     "express": "^4.17.1",
     "mockjs": "^1.1.0",
     "postcss-pxtorem": "^5.1.1",
-    "qs": "^6.9.1",
+    "qs": "^6.9.7",
     "stylus": "^0.54.7",
     "stylus-loader": "^3.0.2",
     "swiper": "^5.3.6",
